@@ -1,0 +1,23 @@
+name: cytopath
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.8
+  - pandas=1.4.1
+  - scipy=1.10.1
+  - numpy=1.23.5
+  - anndata=0.9.1
+  - scvelo=0.2.5
+  - joblib
+  - fastdtw
+  - leidenalg
+  - python-igraph
+  - ipykernel
+  - ipywidgets=7
+  - h5py=3.9.0
+  - pytorch
+  - pip:
+    - skunk
+prefix: /home/ubuntu/miniconda3/envs/cytopath
