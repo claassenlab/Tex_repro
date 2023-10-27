@@ -29,7 +29,7 @@ def make_grid(figsize: Tuple[int, int], grid_spec: Dict[str, Union[int, List[int
     :param grid_spec: dictionary specifying grids in nested fashion
     :return: fig, axs
     """
-    fig = plt.figure(figsize=figsize, layout="constrained")
+    fig = plt.figure(figsize=figsize, constrained_layout=True)
     outer_grid = Grid.from_dict(grid_spec)
     # make outer grid
     gs = fig.add_gridspec(nrows=outer_grid.nrows, ncols=outer_grid.ncols,
