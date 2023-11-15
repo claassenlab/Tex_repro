@@ -611,7 +611,7 @@
      inkscape:window-y="25"
      inkscape:window-x="1"
      inkscape:cy="488.22054"
-     inkscape:cx="504.83666"
+     inkscape:cx="506.79149"
      inkscape:zoom="1.0231032"
      showgrid="false"
      id="namedview4852"
@@ -638,80 +638,66 @@
      transform="matrix(5.4797779,0,0,5.4797779,11.175962,-62.628768)">
     <path
        id="path2765"
-       d="M 12.856826,27.991469 H 28.378941"
+       d="M 16.871584,27.991469 H 32.393699"
        style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3616)" />
     <path
        id="path2767"
-       d="M 31.465205,28.075771 H 55.587357"
+       d="M 35.479963,28.075771 H 59.602115"
        style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3626)" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3636)"
-       d="M 31.465205,50.829952 H 55.587357"
+       d="M 35.479963,50.829952 H 59.602115"
        id="path2773" />
     <path
        id="path2775"
-       d="M 54.383004,30.308628 V 48.901335"
+       d="M 58.397762,30.308628 V 48.901335"
        style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3646)" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3656)"
-       d="M 56.499672,30.308628 V 48.901335"
+       d="M 60.51443,30.308628 V 48.901335"
        id="path2777" />
     <path
        id="path2779"
-       d="M 58.61634,30.308628 V 48.901335"
+       d="M 62.631098,30.308628 V 48.901335"
        style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3666)" />
     <path
        id="path2781"
-       d="M 58.452722,50.829952 H 82.574874"
+       d="M 62.46748,50.829952 H 86.589632"
        style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3676)" />
     <text
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:6.61458px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3908);fill:#000000;fill-opacity:1;stroke:none"
        id="text3906"
        xml:space="preserve" />
-    <rect
-       y="11.42907"
-       x="3.9152498"
-       height="13.491807"
-       width="39.13142"
-       id="rect4518"
-       style="fill:#ffffff;stroke:none;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        y="16.670729"
        x="6.1010041"
        style="font-style:normal;font-weight:normal;font-size:2.91983px;line-height:1.5;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4518);fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
        id="text3912"
        xml:space="preserve"
-       transform="translate(-6.0553063)"><tspan
-         x="3.9160156"
-         y="14.458516"
-         id="tspan55544"><tspan
+       transform="translate(3.0691512,15.99811)"><tspan
+         x="0"
+         y="0"
+         id="tspan582"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan55542">d(-1)
+           id="tspan580">d(-1)
 </tspan></tspan><tspan
-         x="3.9160156"
-         y="18.87206"
-         id="tspan55548"><tspan
+         x="0"
+         y="4.4135448"
+         id="tspan586"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan55546">50 000 p14-TCF7-GFP
+           id="tspan584">50 000 p14-TCF7-GFP
 </tspan></tspan><tspan
-         x="3.9160156"
-         y="23.285605"
-         id="tspan55552"><tspan
+         x="0"
+         y="8.8270895"
+         id="tspan590"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan55550">cells i.v.</tspan></tspan></text>
+           id="tspan588">cells i.v.</tspan></tspan></text>
     <text
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:6.61458px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4522);fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:6.61458px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4522);display:inline;fill:#000000;fill-opacity:1;stroke:none"
        id="text4520"
        xml:space="preserve" />
-    <rect
-       style="fill:#ffffff;stroke:none;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect4550"
-       width="39.13142"
-       height="13.491807"
-       x="50.867172"
-       y="12.933022" />
     <text
-       transform="translate(46.951923,1.5039516)"
+       transform="translate(50.966681,1.5039516)"
        xml:space="preserve"
        id="text3912-4"
        style="font-style:normal;font-weight:normal;font-size:2.91983px;line-height:1.5;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4518-5);fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
@@ -719,30 +705,23 @@
        y="16.670729"><tspan
          x="3.9160156"
          y="14.458516"
-         id="tspan55556"><tspan
+         id="tspan594"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan55554">d5
+           id="tspan592">d5
 </tspan></tspan><tspan
          x="3.9160156"
          y="18.87206"
-         id="tspan55560"><tspan
+         id="tspan598"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan55558">sort and transfer
+           id="tspan596">sort and transfer
 </tspan></tspan><tspan
          x="3.9160156"
          y="23.285605"
-         id="tspan55564"><tspan
+         id="tspan602"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan55562">3 branch populations</tspan></tspan></text>
-    <rect
-       style="fill:none;stroke:none;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect4550-7"
-       width="39.13142"
-       height="13.491807"
-       x="24.567179"
-       y="29.66943" />
+           id="tspan600">3 branch populations</tspan></tspan></text>
     <text
-       transform="translate(18.322964,17.308774)"
+       transform="translate(22.337722,17.308774)"
        xml:space="preserve"
        id="text3912-5"
        style="font-style:normal;font-weight:normal;font-size:2.91983px;line-height:1.5;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4518-2);fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
@@ -750,30 +729,23 @@
        y="16.670729"><tspan
          x="3.9160156"
          y="14.458516"
-         id="tspan55568"><tspan
+         id="tspan606"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan55566">d0
+           id="tspan604">d0
 </tspan></tspan><tspan
          x="3.9160156"
          y="18.87206"
-         id="tspan55572"><tspan
+         id="tspan610"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan55570">2$\cdot$10$^6$ ffu
+           id="tspan608">2$\cdot$10$^6$ ffu
 </tspan></tspan><tspan
          x="3.9160156"
          y="23.285605"
-         id="tspan55576"><tspan
+         id="tspan614"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan55574">LCMV Cl-13</tspan></tspan></text>
-    <rect
-       style="fill:none;stroke:none;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect4550-5"
-       width="39.13142"
-       height="13.491807"
-       x="13.945477"
-       y="46.262089" />
+           id="tspan612">LCMV Cl-13</tspan></tspan></text>
     <text
-       transform="translate(10.030226,36.696192)"
+       transform="translate(14.044984,36.696192)"
        xml:space="preserve"
        id="text3912-2"
        style="font-style:normal;font-weight:normal;font-size:2.91983px;line-height:1.5;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4518-7);fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
@@ -781,30 +753,23 @@
        y="16.670729"><tspan
          x="3.9160156"
          y="14.458516"
-         id="tspan55580"><tspan
+         id="tspan618"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan55578">d0
+           id="tspan616">d0
 </tspan></tspan><tspan
          x="3.9160156"
          y="18.87206"
-         id="tspan55584"><tspan
+         id="tspan622"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan55582">2$\cdot$10$^6$ ffu
+           id="tspan620">2$\cdot$10$^6$ ffu
 </tspan></tspan><tspan
          x="3.9160156"
          y="23.285605"
-         id="tspan55588"><tspan
+         id="tspan626"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan55586">LCMV Cl-13</tspan></tspan></text>
-    <rect
-       style="fill:#ffffff;stroke:none;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect4550-6"
-       width="39.13142"
-       height="13.491807"
-       x="82.574112"
-       y="47.648102" />
+           id="tspan624">LCMV Cl-13</tspan></tspan></text>
     <text
-       transform="translate(80.11877,36.219033)"
+       transform="translate(84.133528,36.219033)"
        xml:space="preserve"
        id="text3912-6"
        style="font-style:normal;font-weight:normal;font-size:2.91983px;line-height:1.5;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4518-28);fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
@@ -812,20 +777,20 @@
        y="16.670729"><tspan
          x="3.9160156"
          y="14.458516"
-         id="tspan55592"><tspan
+         id="tspan630"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan55590">d12
+           id="tspan628">d12
 </tspan></tspan><tspan
          x="3.9160156"
          y="18.87206"
-         id="tspan55596"><tspan
+         id="tspan634"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan55594">harvest &amp; phenotype
+           id="tspan632">harvest &amp; phenotype
 </tspan></tspan><tspan
          x="3.9160156"
          y="23.285605"
-         id="tspan55600"><tspan
+         id="tspan638"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan55598">p14 cells</tspan></tspan></text>
+           id="tspan636">p14 cells</tspan></tspan></text>
   </g>
 </svg>
