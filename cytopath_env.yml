@@ -14,10 +14,9 @@ dependencies:
   - fastdtw
   - leidenalg
   - python-igraph
-  - ipykernel
-  - ipywidgets=7
   - h5py=3.9.0
-  - pytorch
   - pip:
     - skunk
+    - cytopath==0.2.1
+    - cy2path==0.0.2
 prefix: /home/ubuntu/miniconda3/envs/cytopath
