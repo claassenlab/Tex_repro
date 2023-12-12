@@ -3,9 +3,9 @@
    inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
    sodipodi:docname="transfer_plan.svg"
    id="svg4850"
-   viewBox="0 0 678.09525 272.40436"
-   height="272.40436"
-   width="678.09528"
+   viewBox="0 0 678.09523 272.40436"
+   height="2.8375454in"
+   width="7.0634923in"
    y="0px"
    x="0px"
    version="1.1"
@@ -608,10 +608,10 @@
   <sodipodi:namedview
      inkscape:current-layer="layer1"
      inkscape:window-maximized="0"
-     inkscape:window-y="25"
-     inkscape:window-x="1"
+     inkscape:window-y="28"
+     inkscape:window-x="0"
      inkscape:cy="488.22054"
-     inkscape:cx="506.79149"
+     inkscape:cx="507.76891"
      inkscape:zoom="1.0231032"
      showgrid="false"
      id="namedview4852"
@@ -628,7 +628,8 @@
      inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0"
      inkscape:showpageshadow="2"
-     inkscape:deskcolor="#d1d1d1" />
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in" />
   <desc
      id="desc4">Creator: FreeHEP Graphics2D Driver Producer: org.freehep.graphicsio.svg.SVGGraphics2D Revision: 12753  Source:  Date: Mittwoch, 9. September 2020 08:08 Uhr MESZ</desc>
   <!-- default stroke -->
@@ -665,33 +666,33 @@
        d="M 62.46748,50.829952 H 86.589632"
        style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3676)" />
     <text
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:6.61458px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3908);fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:6.61458px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3908);display:inline;fill:#000000;fill-opacity:1;stroke:none"
        id="text3906"
        xml:space="preserve" />
     <text
        y="16.670729"
        x="6.1010041"
-       style="font-style:normal;font-weight:normal;font-size:2.91983px;line-height:1.5;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4518);fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:normal;font-weight:normal;font-size:2.91983px;line-height:1.5;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4518);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
        id="text3912"
        xml:space="preserve"
        transform="translate(3.0691512,15.99811)"><tspan
          x="0"
          y="0"
-         id="tspan582"><tspan
+         id="tspan2911"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan580">d(-1)
+           id="tspan2909">d(-1)
 </tspan></tspan><tspan
          x="0"
          y="4.4135448"
-         id="tspan586"><tspan
+         id="tspan2915"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan584">50 000 p14-TCF7-GFP
+           id="tspan2913">50 000 p14-TCF7-GFP
 </tspan></tspan><tspan
          x="0"
          y="8.8270895"
-         id="tspan590"><tspan
+         id="tspan2919"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan588">cells i.v.</tspan></tspan></text>
+           id="tspan2917">cells i.v.</tspan></tspan></text>
     <text
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:6.61458px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4522);display:inline;fill:#000000;fill-opacity:1;stroke:none"
        id="text4520"
@@ -700,97 +701,113 @@
        transform="translate(50.966681,1.5039516)"
        xml:space="preserve"
        id="text3912-4"
-       style="font-style:normal;font-weight:normal;font-size:2.91983px;line-height:1.5;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4518-5);fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:normal;font-weight:normal;font-size:2.91983px;line-height:1.5;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4518-5);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
        x="6.1010041"
        y="16.670729"><tspan
          x="3.9160156"
          y="14.458516"
-         id="tspan594"><tspan
+         id="tspan2923"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan592">d5
+           id="tspan2921">d5
 </tspan></tspan><tspan
          x="3.9160156"
          y="18.87206"
-         id="tspan598"><tspan
+         id="tspan2927"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan596">sort and transfer
+           id="tspan2925">sort and transfer
 </tspan></tspan><tspan
          x="3.9160156"
          y="23.285605"
-         id="tspan602"><tspan
+         id="tspan2931"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan600">3 branch populations</tspan></tspan></text>
+           id="tspan2929">3 branch populations</tspan></tspan></text>
     <text
        transform="translate(22.337722,17.308774)"
        xml:space="preserve"
        id="text3912-5"
-       style="font-style:normal;font-weight:normal;font-size:2.91983px;line-height:1.5;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4518-2);fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:normal;font-weight:normal;font-size:2.91983px;line-height:1.5;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4518-2);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
        x="6.1010041"
        y="16.670729"><tspan
          x="3.9160156"
          y="14.458516"
-         id="tspan606"><tspan
+         id="tspan2935"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan604">d0
+           id="tspan2933">d0
 </tspan></tspan><tspan
          x="3.9160156"
          y="18.87206"
-         id="tspan610"><tspan
+         id="tspan2947"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan608">2$\cdot$10$^6$ ffu
+           id="tspan2937">2</tspan><tspan
+           style="font-family:Arial;-inkscape-font-specification:Arial"
+           id="tspan2939">⋅</tspan><tspan
+           style="font-family:Arial;-inkscape-font-specification:Arial"
+           id="tspan2941">10</tspan><tspan
+           style="font-size:65%;baseline-shift:super"
+           id="tspan2943">6</tspan><tspan
+           style="font-family:Arial;-inkscape-font-specification:Arial"
+           id="tspan2945"> ffu
 </tspan></tspan><tspan
          x="3.9160156"
          y="23.285605"
-         id="tspan614"><tspan
+         id="tspan2951"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan612">LCMV Cl-13</tspan></tspan></text>
+           id="tspan2949">LCMV Cl-13</tspan></tspan></text>
     <text
        transform="translate(14.044984,36.696192)"
        xml:space="preserve"
        id="text3912-2"
-       style="font-style:normal;font-weight:normal;font-size:2.91983px;line-height:1.5;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4518-7);fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:normal;font-weight:normal;font-size:2.91983px;line-height:1.5;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4518-7);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
        x="6.1010041"
        y="16.670729"><tspan
          x="3.9160156"
          y="14.458516"
-         id="tspan618"><tspan
+         id="tspan2955"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan616">d0
+           id="tspan2953">d0
 </tspan></tspan><tspan
          x="3.9160156"
          y="18.87206"
-         id="tspan622"><tspan
+         id="tspan2967"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan620">2$\cdot$10$^6$ ffu
+           id="tspan2957">2</tspan><tspan
+           style="font-family:Arial;-inkscape-font-specification:Arial"
+           id="tspan2959">⋅</tspan><tspan
+           style="font-family:Arial;-inkscape-font-specification:Arial"
+           id="tspan2961">10</tspan><tspan
+           style="font-size:65%;baseline-shift:super"
+           id="tspan2963">6</tspan><tspan
+           style="font-family:Arial;-inkscape-font-specification:Arial"
+           id="tspan2965"> ffu
 </tspan></tspan><tspan
          x="3.9160156"
          y="23.285605"
-         id="tspan626"><tspan
+         id="tspan2971"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan624">LCMV Cl-13</tspan></tspan></text>
+           id="tspan2969">LCMV Cl-13</tspan></tspan></text>
     <text
        transform="translate(84.133528,36.219033)"
        xml:space="preserve"
        id="text3912-6"
-       style="font-style:normal;font-weight:normal;font-size:2.91983px;line-height:1.5;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4518-28);fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:normal;font-weight:normal;font-size:2.91983px;line-height:1.5;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4518-28);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
        x="6.1010041"
        y="16.670729"><tspan
          x="3.9160156"
          y="14.458516"
-         id="tspan630"><tspan
+         id="tspan2975"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan628">d12
+           id="tspan2973">d12
 </tspan></tspan><tspan
          x="3.9160156"
          y="18.87206"
-         id="tspan634"><tspan
+         id="tspan2979"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan632">harvest &amp; phenotype
+           id="tspan2977">harvest &amp; phenotype
 </tspan></tspan><tspan
          x="3.9160156"
          y="23.285605"
-         id="tspan638"><tspan
+         id="tspan2983"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan636">p14 cells</tspan></tspan></text>
+           id="tspan2981">p14 cells</tspan></tspan></text>
   </g>
 </svg>

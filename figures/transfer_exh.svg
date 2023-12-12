@@ -3,9 +3,9 @@
    inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
    sodipodi:docname="transfer_exh.svg"
    id="svg4850"
-   viewBox="0 0 385.62397 411.98969"
-   height="411.98969"
-   width="385.62399"
+   viewBox="0 0 365.62397 394.848"
+   height="4.1129999in"
+   width="3.8085833in"
    y="0px"
    x="0px"
    version="1.1"
@@ -854,9 +854,9 @@
      inkscape:window-maximized="0"
      inkscape:window-y="25"
      inkscape:window-x="1"
-     inkscape:cy="-59.13382"
-     inkscape:cx="539.04631"
-     inkscape:zoom="1.0231032"
+     inkscape:cy="184.48774"
+     inkscape:cx="182.0442"
+     inkscape:zoom="2.0462064"
      showgrid="false"
      id="namedview4852"
      inkscape:window-height="1387"
@@ -872,13 +872,14 @@
      inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0"
      inkscape:showpageshadow="2"
-     inkscape:deskcolor="#d1d1d1" />
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in" />
   <desc
      id="desc4">Creator: FreeHEP Graphics2D Driver Producer: org.freehep.graphicsio.svg.SVGGraphics2D Revision: 12753  Source:  Date: Mittwoch, 9. September 2020 08:08 Uhr MESZ</desc>
   <!-- default stroke -->
   <g
      id="g5857"
-     transform="translate(-10.076233,-34.033165)">
+     transform="translate(-30.076234,-34.033165)">
     <g
        id="g102027"
        transform="matrix(1.1980703,0,0,1.1980703,-1.9958029,-6.7409604)">
@@ -901,7 +902,7 @@
         <text
            style="font-size:13.3548px;stroke-width:1;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
            id="text1486"
-           y="19.916269"
+           y="36.492405"
            x="-199.96849"
            font-size="11px"
            fill="#000000"
@@ -919,7 +920,7 @@
           <g
              style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
              id="g1464"
-             transform="translate(24.216975,32.984401)">
+             transform="translate(40.184252,32.984401)">
             <clipPath
                id="clip34">
               <path
@@ -945,14 +946,16 @@
                    fill-opacity="1"
                    style="font-size:8.90321px"><tspan
                      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.90321px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle"
-                     id="tspan8427">10$^5$</tspan></text>
+                     id="tspan8427">10<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan9354">5</tspan></tspan></text>
               </g>
               <!-- transform -->
             </g>
             <!-- clip34 -->
           </g>
           <g
-             transform="translate(24.216975,94.984401)"
+             transform="translate(40.232289,94.984401)"
              id="g8441"
              style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
             <clipPath
@@ -980,7 +983,9 @@
                    id="text8435"
                    style="font-size:8.90321px"><tspan
                      id="tspan8433"
-                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.90321px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle">10$^4$</tspan></text>
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.90321px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle">10<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan9356">4</tspan></tspan></text>
               </g>
               <!-- transform -->
             </g>
@@ -989,7 +994,7 @@
           <g
              style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
              id="g8455"
-             transform="translate(24.216975,164.9844)">
+             transform="translate(40.215335,164.9844)">
             <clipPath
                id="clipPath8445">
               <path
@@ -1015,14 +1020,16 @@
                    fill-opacity="1"
                    style="font-size:8.90321px"><tspan
                      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.90321px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle"
-                     id="tspan8447">10$^3$</tspan></text>
+                     id="tspan8447">10<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan9358">3</tspan></tspan></text>
               </g>
               <!-- transform -->
             </g>
             <!-- clip34 -->
           </g>
           <g
-             transform="translate(24.216975,206.9844)"
+             transform="translate(44.463596,206.9844)"
              id="g8469"
              style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
             <clipPath
@@ -1059,7 +1066,7 @@
           <g
              style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
              id="g8483"
-             transform="translate(12.111903,248.62741)">
+             transform="translate(37.496118,248.62741)">
             <clipPath
                id="clipPath8473">
               <path
@@ -1085,14 +1092,16 @@
                    fill-opacity="1"
                    style="font-size:8.90321px"><tspan
                      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.90321px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle"
-                     id="tspan8475">- 10$^3$</tspan></text>
+                     id="tspan8475">- 10<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan9360">3</tspan></tspan></text>
               </g>
               <!-- transform -->
             </g>
             <!-- clip34 -->
           </g>
           <g
-             transform="translate(62.075656,284.9844)"
+             transform="translate(75.500565,284.9844)"
              id="g8497"
              style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
             <clipPath
@@ -1120,7 +1129,9 @@
                    id="text8491"
                    style="font-size:8.90321px"><tspan
                      id="tspan8489"
-                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.90321px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle">- 10$^3$</tspan></text>
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.90321px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle">- 10<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan9362">3</tspan></tspan></text>
               </g>
               <!-- transform -->
             </g>
@@ -1129,7 +1140,7 @@
           <g
              style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
              id="g8511"
-             transform="translate(120.21698,284.9844)">
+             transform="translate(118.67573,284.9844)">
             <clipPath
                id="clipPath8501">
               <path
@@ -1162,7 +1173,7 @@
             <!-- clip34 -->
           </g>
           <g
-             transform="translate(150.21698,284.9844)"
+             transform="translate(161.41311,284.9844)"
              id="g8525"
              style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
             <clipPath
@@ -1190,7 +1201,9 @@
                    id="text8519"
                    style="font-size:8.90321px"><tspan
                      id="tspan8517"
-                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.90321px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle">10$^3$</tspan></text>
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.90321px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle">10<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan9364">3</tspan></tspan></text>
               </g>
               <!-- transform -->
             </g>
@@ -1199,7 +1212,7 @@
           <g
              style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
              id="g8539"
-             transform="translate(220.21698,284.9844)">
+             transform="translate(231.33107,284.9844)">
             <clipPath
                id="clipPath8529">
               <path
@@ -1225,14 +1238,16 @@
                    fill-opacity="1"
                    style="font-size:8.90321px"><tspan
                      style="font-size:8.90321px;text-align:center;text-anchor:middle"
-                     id="tspan8531">10$^4$</tspan></text>
+                     id="tspan8531">10<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan9366">4</tspan></tspan></text>
               </g>
               <!-- transform -->
             </g>
             <!-- clip34 -->
           </g>
           <g
-             transform="translate(280.21698,284.9844)"
+             transform="translate(292.71175,284.9844)"
              id="g8553"
              style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
             <clipPath
@@ -1260,7 +1275,9 @@
                    id="text8547"
                    style="font-size:8.90321px"><tspan
                      id="tspan8545"
-                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.90321px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle">10$^5$</tspan></text>
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.90321px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle">10<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan9372">5</tspan></tspan></text>
               </g>
               <!-- transform -->
             </g>
@@ -1277,7 +1294,7 @@
            fill="#000000"
            font-size="11px"
            x="171.59688"
-           y="377.59058"
+           y="360.76953"
            id="text920-1"><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
              id="tspan117026">Exhausted</tspan></text>
