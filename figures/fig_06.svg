@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.inkscape.org/namespaces/inkscape" xmlns:ns5="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns6="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" height="504pt" version="1.1" viewBox="0 0 864 504" width="864pt">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.inkscape.org/namespaces/inkscape" xmlns:ns5="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns6="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" height="315pt" version="1.1" viewBox="0 0 540 315" width="540pt">
  <metadata>
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2024-08-14T13:06:20.873179</dc:date>
+    <dc:date>2024-08-15T13:34:37.503399</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -18,11 +18,11 @@
  </defs>
  <g id="figure_1">
   <g id="patch_1">
-   <path d="M 0 504  L 864 504  L 864 0  L 0 0  z " style="fill:none;" />
+   <path d="M 0 315  L 540 315  L 540 0  L 0 0  z " style="fill:#ffffff;" />
   </g>
   <g id="axes_1">
    <g id="plan">
-    <svg ns4:version="1.2.1 (9c6d41e, 2022-07-14)" ns5:docname="transfer_plan.svg" id="svg4850" viewBox="0 0 678.09523 272.40436" height="219.38952" width="566.23968" y="17.61024" x="3.00024" version="1.1">
+    <svg ns4:version="1.2.1 (9c6d41e, 2022-07-14)" ns5:docname="transfer_plan.svg" id="svg4850" viewBox="0 0 678.09523 272.40436" height="133.04202" width="351.99935999999997" y="13.95774" x="3.00024" version="1.1">
   <metadata id="metadata4856">
     <rdf:RDF>
       <ns2:Work rdf:about="">
@@ -179,7 +179,7 @@
 </svg></g>
    <g id="text_1">
     
-    <g transform="translate(3.00024 14.45274)scale(0.16 -0.16)">
+    <g transform="translate(3.00024 11.589615)scale(0.12 -0.12)">
      <defs>
       <path d="M 4597 0  L 3591 0  L 3191 1041  L 1359 1041  L 981 0  L 0 0  L 1784 4581  L 2763 4581  L 4597 0  z M 2894 1813  L 2263 3513  L 1644 1813  L 2894 1813  z " id="Arial-BoldMT-41" transform="scale(0.015625)" />
      </defs>
@@ -189,7 +189,7 @@
   </g>
   <g id="axes_2">
    <g id="sort">
-    <svg ns4:version="1.2.1 (9c6d41e, 2022-07-14)" ns5:docname="transfer_sort.svg" id="svg4850" viewBox="0 0 365.5184 368.62355" height="219.38952" width="283.11984000000007" y="17.61024" x="577.87992" version="1.1" ns4:export-filename="../../../Tex_repro/figures/transfer_plan.svg" ns4:export-xdpi="96" ns4:export-ydpi="96">
+    <svg ns4:version="1.2.1 (9c6d41e, 2022-07-14)" ns5:docname="transfer_sort.svg" id="svg4850" viewBox="0 0 365.5184 368.62355" height="133.04202" width="175.99968" y="13.95774" x="361.00008" version="1.1" ns4:export-filename="../../../Tex_repro/figures/transfer_plan.svg" ns4:export-xdpi="96" ns4:export-ydpi="96">
   <metadata id="metadata4856">
     <rdf:RDF>
       <ns2:Work rdf:about="">
@@ -1487,7 +1487,7 @@
 </svg></g>
    <g id="text_2">
     
-    <g transform="translate(577.87992 14.45274)scale(0.16 -0.16)">
+    <g transform="translate(361.00008 11.589615)scale(0.12 -0.12)">
      <defs>
       <path d="M 469 4581  L 2300 4581  Q 2844 4581 3111 4536  Q 3378 4491 3589 4347  Q 3800 4203 3940 3964  Q 4081 3725 4081 3428  Q 4081 3106 3907 2837  Q 3734 2569 3438 2434  Q 3856 2313 4081 2019  Q 4306 1725 4306 1328  Q 4306 1016 4161 720  Q 4016 425 3764 248  Q 3513 72 3144 31  Q 2913 6 2028 0  L 469 0  L 469 4581  z M 1394 3819  L 1394 2759  L 2000 2759  Q 2541 2759 2672 2775  Q 2909 2803 3045 2939  Q 3181 3075 3181 3297  Q 3181 3509 3064 3642  Q 2947 3775 2716 3803  Q 2578 3819 1925 3819  L 1394 3819  z M 1394 1997  L 1394 772  L 2250 772  Q 2750 772 2884 800  Q 3091 838 3220 983  Q 3350 1128 3350 1372  Q 3350 1578 3250 1722  Q 3150 1866 2961 1931  Q 2772 1997 2141 1997  L 1394 1997  z " id="Arial-BoldMT-42" transform="scale(0.015625)" />
      </defs>
@@ -1497,7 +1497,7 @@
   </g>
   <g id="axes_3">
    <g id="exh">
-    <svg ns4:version="1.2.1 (9c6d41e, 2022-07-14)" ns5:docname="transfer_exh.svg" id="svg4850" viewBox="0 0 365.62397 394.848" height="243.38952" width="247.59984" y="257.61024" x="3.00024" version="1.1" ns4:export-filename="../../../Tex_repro/figures/transfer_pre.svg" ns4:export-xdpi="96" ns4:export-ydpi="96">
+    <svg ns4:version="1.2.1 (9c6d41e, 2022-07-14)" ns5:docname="transfer_exh.svg" id="svg4850" viewBox="0 0 365.62397 394.848" height="148.04201999999998" width="173.99952000000002" y="163.95774" x="3.00024" version="1.1" ns4:export-filename="../../../Tex_repro/figures/transfer_pre.svg" ns4:export-xdpi="96" ns4:export-ydpi="96">
   <metadata id="metadata4856">
     <rdf:RDF>
       <ns2:Work rdf:about="">
@@ -2974,7 +2974,7 @@
 </svg></g>
    <g id="text_3">
     
-    <g transform="translate(3.00024 254.45274)scale(0.16 -0.16)">
+    <g transform="translate(3.00024 161.589615)scale(0.12 -0.12)">
      <defs>
       <path d="M 3397 1684  L 4294 1400  Q 4088 650 3608 286  Q 3128 -78 2391 -78  Q 1478 -78 890 545  Q 303 1169 303 2250  Q 303 3394 893 4026  Q 1484 4659 2447 4659  Q 3288 4659 3813 4163  Q 4125 3869 4281 3319  L 3366 3100  Q 3284 3456 3026 3662  Q 2769 3869 2400 3869  Q 1891 3869 1573 3503  Q 1256 3138 1256 2319  Q 1256 1450 1568 1081  Q 1881 713 2381 713  Q 2750 713 3015 947  Q 3281 1181 3397 1684  z " id="Arial-BoldMT-43" transform="scale(0.015625)" />
      </defs>
@@ -2984,7 +2984,7 @@
   </g>
   <g id="axes_4">
    <g id="mem">
-    <svg ns4:version="1.2.1 (9c6d41e, 2022-07-14)" ns5:docname="transfer_mem.svg" id="svg4850" viewBox="0 0 365.62399 394.8203" height="243.38952" width="247.59984000000003" y="257.61024" x="308.20008" version="1.1" ns4:export-filename="transfer_exh.svg" ns4:export-xdpi="96" ns4:export-ydpi="96">
+    <svg ns4:version="1.2.1 (9c6d41e, 2022-07-14)" ns5:docname="transfer_mem.svg" id="svg4850" viewBox="0 0 365.62399 394.8203" height="148.04201999999998" width="173.99952" y="163.95774" x="183.00024" version="1.1" ns4:export-filename="transfer_exh.svg" ns4:export-xdpi="96" ns4:export-ydpi="96">
   <metadata id="metadata4856">
     <rdf:RDF>
       <ns2:Work rdf:about="">
@@ -4468,7 +4468,7 @@
   </g>
   <g id="axes_5">
    <g id="pre">
-    <svg ns4:version="1.2.1 (9c6d41e, 2022-07-14)" ns5:docname="transfer_pre.svg" id="svg4850" viewBox="0 0 365.56719 394.848" height="243.38952" width="247.59984000000009" y="257.61024" x="613.39992" version="1.1" ns4:export-filename="transfer_mem.svg" ns4:export-xdpi="96" ns4:export-ydpi="96">
+    <svg ns4:version="1.2.1 (9c6d41e, 2022-07-14)" ns5:docname="transfer_pre.svg" id="svg4850" viewBox="0 0 365.56719 394.848" height="148.04201999999998" width="173.99952000000002" y="163.95774" x="363.00024" version="1.1" ns4:export-filename="transfer_mem.svg" ns4:export-xdpi="96" ns4:export-ydpi="96">
   <metadata id="metadata4856">
     <rdf:RDF>
       <ns2:Work rdf:about="">
@@ -5948,20 +5948,20 @@
   </g>
  </g>
  <defs>
-  <clipPath id="p355a6a6b90">
-   <rect height="219.38952" width="566.23968" x="3.00024" y="17.61024" />
+  <clipPath id="p58d41b2d57">
+   <rect height="133.04202" width="351.99936" x="3.00024" y="13.95774" />
   </clipPath>
-  <clipPath id="pc6e916cd12">
-   <rect height="219.38952" width="283.11984" x="577.87992" y="17.61024" />
+  <clipPath id="pd2250e3402">
+   <rect height="133.04202" width="175.99968" x="361.00008" y="13.95774" />
   </clipPath>
-  <clipPath id="p4e12b49ed6">
-   <rect height="243.38952" width="247.59984" x="3.00024" y="257.61024" />
+  <clipPath id="pdcc92dacbc">
+   <rect height="148.04202" width="173.99952" x="3.00024" y="163.95774" />
   </clipPath>
-  <clipPath id="pf24cf8929d">
-   <rect height="243.38952" width="247.59984" x="308.20008" y="257.61024" />
+  <clipPath id="p402c079a4b">
+   <rect height="148.04202" width="173.99952" x="183.00024" y="163.95774" />
   </clipPath>
-  <clipPath id="p3c4d2b9b38">
-   <rect height="243.38952" width="247.59984" x="613.39992" y="257.61024" />
+  <clipPath id="pa048eced3c">
+   <rect height="148.04202" width="173.99952" x="363.00024" y="163.95774" />
   </clipPath>
  </defs>
 </svg>
