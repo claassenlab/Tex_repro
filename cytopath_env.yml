@@ -4,8 +4,10 @@ channels:
   - bioconda
   - defaults
 dependencies:
-  - python=3.8
+  - python=3.9
+  - pip
   - pandas=1.4.1
+  - matplotlib<=3.7.3
   - scipy=1.10.1
   - numpy=1.23.5
   - anndata=0.9.1
@@ -14,9 +16,7 @@ dependencies:
   - fastdtw
   - leidenalg
   - python-igraph
-  - h5py=3.9.0
   - pip:
     - skunk
     - cytopath==0.2.1
-    - cy2path==0.0.2
-prefix: /home/ubuntu/miniconda3/envs/cytopath
+    - cy2path==0.0.3
