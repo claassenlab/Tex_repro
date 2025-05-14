@@ -126,7 +126,6 @@ def main():
                     method="linkage",
                     distance_func="dtw",
                     differencing=False,
-                    convergence=num_steps,
                     copy=True,
                     n_jobs=args.n_jobs,
                 )
