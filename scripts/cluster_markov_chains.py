@@ -6,7 +6,7 @@ from glob import glob
 
 import anndata as ad
 import numpy as np
-from cy2path import infer_cytopath_lineages
+from cy2path import infer_cytopath_lineages, sample_state_probability
 from dtaidistance import dtw_ndim
 from sklearn.metrics import silhouette_score
 from tqdm.auto import tqdm
@@ -70,6 +70,18 @@ def main():
                 "'T_forward' in `obsp` or 'uns'."
             )
 
+    # Run state probability sampling once
+    sample_state_probability(
+        adata,
+        matrix_key="T_forward",
+        recalc_matrix=False,
+        self_transitions=False,
+        init="root_cells",
+        max_iter=1000,
+        tol=1e-5,
+        copy=False,
+    )
+
     for file in tqdm(glob(f"{args.input}/simulations_*.npy"), desc="Processing runs "):
         run_number = file.split("/")[-1].split("_")[1].split(".")[0]
         simulation_params = json.load(open(f"{args.input}/params_{run_number}.json"))
@@ -86,16 +98,16 @@ def main():
 
             if num_steps == 0:
                 num_steps = simulation_params["convergence"]
-            markov_chains = markov_chains[:, :num_steps]
+            markov_chains_ = markov_chains[:, :num_steps]
             adata.uns["markov_chain_sampling"] = {}
             adata.uns["markov_chain_sampling"]["sampling_params"] = {}
             adata.uns["markov_chain_sampling"]["sampling_params"]["num_chains"] = (
-                markov_chains.shape[0]
+                markov_chains_.shape[0]
             )
-            adata.uns["markov_chain_sampling"]["state_indices"] = markov_chains
+            adata.uns["markov_chain_sampling"]["state_indices"] = markov_chains_
 
             # Get coordinates of simulations in the basis
-            simulations = adata.obsm[f"X_{args.basis}"][markov_chains].astype("double")
+            simulations = adata.obsm[f"X_{args.basis}"][markov_chains_].astype("double")
             distances = dtw_ndim.distance_matrix_fast(simulations)
             silhouette_scores = {}
 
@@ -114,6 +126,7 @@ def main():
                     method="linkage",
                     distance_func="dtw",
                     differencing=False,
+                    convergence=num_steps,
                     copy=True,
                     n_jobs=args.n_jobs,
                 )
