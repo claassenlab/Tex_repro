@@ -144,6 +144,8 @@ def main():
                     ),
                     lineage_inference_clusters,
                 )
+                del adata_
+            del markov_chains_
             json.dump(
                 silhouette_scores,
                 open(

@@ -16,6 +16,8 @@ dependencies:
   - fastdtw
   - leidenalg
   - python-igraph
+  - palantir
+  - cellrank
   - pip:
     - skunk
     - cytopath==0.2.1
