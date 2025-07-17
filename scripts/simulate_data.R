@@ -41,7 +41,7 @@ parser$add_argument(
 parser$add_argument(
   "--num_genes",
   type = "integer",
-  default = 2000,
+  default = 500,
   help = "Number of genes"
 )
 parser$add_argument(
