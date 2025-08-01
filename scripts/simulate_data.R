@@ -6,6 +6,7 @@ library(anndata)
 library(reticulate)
 library(parallelly)
 
+# use_condaenv("scanpy")
 use_condaenv("cytopath")
 
 set.seed(42)
