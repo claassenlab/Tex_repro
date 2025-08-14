@@ -108,8 +108,9 @@ def main():
 
             # Get coordinates of simulations in the basis
             simulations = adata.obsm[f"X_{args.basis}"][markov_chains_].astype("double")
-            distances = dtw_ndim.distance_matrix_fast(simulations)
-            silhouette_scores = {}
+            if args.max_lineages > 2:
+                distances = dtw_ndim.distance_matrix_fast(simulations)
+                silhouette_scores = {}
 
             # Perform hierarchical clustering with different numbers of lineages
             for n_lineages in tqdm(
@@ -129,11 +130,12 @@ def main():
                     copy=True,
                     n_jobs=args.n_jobs,
                 )
-                silhouette_scores[n_lineages] = silhouette_score(
-                    distances,
-                    adata_.uns["cytopath"]["lineage_inference_clusters"],
-                    metric="precomputed",
-                )
+                if args.max_lineages > 2:
+                    silhouette_scores[n_lineages] = silhouette_score(
+                        distances,
+                        adata_.uns["cytopath"]["lineage_inference_clusters"],
+                        metric="precomputed",
+                    )
                 lineage_inference_clusters = adata_.uns["cytopath"][
                     "lineage_inference_clusters"
                 ]
@@ -146,13 +148,16 @@ def main():
                 )
                 del adata_
             del markov_chains_
-            json.dump(
-                silhouette_scores,
-                open(
-                    os.path.join(output_dir, f"silhouette_scores_{run_number}.json"),
-                    "w",
-                ),
-            )
+            if args.max_lineages > 2:
+                json.dump(
+                    silhouette_scores,
+                    open(
+                        os.path.join(
+                            output_dir, f"silhouette_scores_{run_number}.json"
+                        ),
+                        "w",
+                    ),
+                )
 
 
 if __name__ == "__main__":
