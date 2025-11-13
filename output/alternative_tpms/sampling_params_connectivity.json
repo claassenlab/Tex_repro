@@ -1,0 +1,1 @@
+{"recalc_matrix": false, "self_transitions": false, "init_type": "root_cells", "max_iter": 1000, "num_chains": 1000, "convergence": 364, "convergence_criterion": 364, "tol": 0.0005, "copy": false}
